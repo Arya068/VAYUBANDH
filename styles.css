@@ -1,0 +1,95 @@
+body{
+    font-family:Arial,sans-serif;
+    background:#fffbe6;
+    color:#333;
+    text-align:center;
+    padding:20px;
+    margin:0;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+input{
+    width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button{
+    width:100%;
+    padding:12px;
+    font-size:16px;
+    margin-top:10px;
+    background-color: #ff9800;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#e68900;
+}
+
+#weatherInfo, #suggestions {
+    margin-top: 20px;
+    text-align: left;
+
+}
+ .card {
+    background: #f0f9ff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+
+  
+#suggestions{
+    margin-top: 20px;
+  text-align: left;
+}
+
+.card {
+    background: #f0f9ff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  /* input, button {
+    font-size: 15px;
+    padding: 10px;
+  } */
+
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 20px;
+    }
+  
+    input, button {
+      font-size: 15px;
+      padding: 10px;
+    }
+  
+    .card {
+      font-size: 15px;
+    }
+  }
+  
+  
+  
