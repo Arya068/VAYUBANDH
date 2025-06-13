@@ -1,8 +1,6 @@
-“I believe technology should feel like nature – simple, powerful, and life-changing.”
+**🔥 Heat Wearable App – VayuBandh**
 
-🔥 Heat Wearable App – VayuBandh
-
-**“Feel the Climate. Wear the Future"**
+*“Feel the Climate. Wear the Future"*
 
 Welcome to **ClimaSense**– a lightweight, browser-based prototype of a **heat wearable app**, built entirely using **HTML, CSS, and JavaScript**.
 
