@@ -2,7 +2,7 @@
 
 *“Feel the Climate. Wear the Future"*
 
-Welcome to **ClimaSense**– a lightweight, browser-based prototype of a **heat wearable app**, built entirely using **HTML, CSS, and JavaScript**.
+A lightweight, browser-based prototype of a **heat wearable app**, built entirely using **HTML, CSS, and JavaScript**.
 
 This project is designed to demonstrate how wearable technology can help us **monitor external climatic conditions** in real time, promote weather safety, and improve daily decision-making.
 
