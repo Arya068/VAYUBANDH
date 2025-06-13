@@ -16,7 +16,7 @@ This project is designed to demonstrate how wearable technology can help us **mo
 
 - Build a simple **front-end simulation** of a heat-sensing wearable
 - Provide a **real-time feel** of climate detection (via mock data or APIs)
-- Deliver a clean, **user-friendly UI** with alerts and climate info
+- Deliver a clean, **user-friendly UI** with alerts and climate information
 - Help users **understand when the environment may be too hot or cold**
 
  🌟 Features
@@ -32,7 +32,7 @@ This project is designed to demonstrate how wearable technology can help us **mo
 2. Open `index.html` in your browser.
 3. Explore the temperature readings and alerts.
 
- F
+ 
 
 
 
