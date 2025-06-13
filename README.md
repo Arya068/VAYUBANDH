@@ -1,5 +1,6 @@
 “I believe technology should feel like nature – simple, powerful, and life-changing.”
-🔥 Heat Wearable App – ClimaSense
+
+🔥 Heat Wearable App – VayuBandh
 
 **“Feel the Climate. Wear the Future"**
 
